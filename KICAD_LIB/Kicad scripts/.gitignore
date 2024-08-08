@@ -1,0 +1,13 @@
+# KiCad ignores
+fp-info-cache
+*-backups
+*.bak
+*.kicad_sch-bak
+*kicad_prl
+*kicad_prl-bak
+*.lck
+
+# misc ignores
+.vscode/*
+.DS_Store
+__pycache__/
