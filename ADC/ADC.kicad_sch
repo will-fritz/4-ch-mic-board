@@ -5,22 +5,14 @@
 	(uuid "7b6d95de-464f-4091-a404-a6fd0874107f")
 	(paper "A4")
 	(lib_symbols
-		(symbol "AC108:AC108"
+		(symbol "ccb_ADC:AC108"
 			(pin_names
 				(offset 0.4)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "AC108"
-				(at 0 60.452 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
+			(property "Reference" "U1"
 				(at 0 60.96 0)
 				(effects
 					(font
@@ -28,7 +20,15 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Value" "AC108"
+				(at 0 58.42 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ccb_package_DFN_QFN:AC108"
 				(at 0 60.96 0)
 				(effects
 					(font
@@ -37,7 +37,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://cdn.sparkfun.com/assets/6/0/d/c/a/AC108_Datasheet_V1.1.pdf"
 				(at 0 60.96 0)
 				(effects
 					(font
@@ -55,7 +55,34 @@
 					(hide yes)
 				)
 			)
-			(symbol "AC108_0_1"
+			(property "Manufacturer" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "SMD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AC108_1_1"
 				(rectangle
 					(start -13.97 55.88)
 					(end 13.97 -63.5)
@@ -64,11 +91,9 @@
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "AC108_1_1"
 				(pin power_in line
 					(at -6.35 -66.04 90)
 					(length 2.54)
@@ -881,35 +906,150 @@
 				)
 			)
 		)
+		(symbol "ccb_microphone:MSM321A3729H9HP-C"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "M?"
+				(at 0 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MSM321A3729H9HP-C1"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ccb_microphone:MSM321A3729H8HP-C_FP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MSM321A3729H9HP-C_1_1"
+				(rectangle
+					(start -5.08 7.62)
+					(end 5.08 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 7.62 5.08 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2,3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 -5.08 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 	)
 	(symbol
-		(lib_id "AC108:AC108")
-		(at 116.84 87.63 0)
+		(lib_id "ccb_microphone:MSM321A3729H9HP-C")
+		(at 76.2 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1cfce41d-d294-401e-a26c-47979567e9ea")
-		(property "Reference" "AC108"
-			(at 116.84 27.94 0)
+		(uuid "3452bda9-0b5f-4bd1-89c0-f88c0ac14a1d")
+		(property "Reference" "M?"
+			(at 76.2 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 116.84 30.48 0)
+		(property "Value" "MSM321A3729H9HP-C1"
+			(at 76.2 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Library:AC108"
-			(at 116.84 26.67 0)
+		(property "Footprint" "ccb_microphone:MSM321A3729H8HP-C_FP"
+			(at 76.2 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -918,7 +1058,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 26.67 0)
+			(at 76.2 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -927,7 +1067,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 26.67 0)
+			(at 76.2 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -935,145 +1075,243 @@
 				(hide yes)
 			)
 		)
-		(pin "19"
-			(uuid "632adb94-2b25-41b2-89fb-86b14f14d641")
-		)
-		(pin "27"
-			(uuid "b631099f-b10d-45c1-acf0-a8b6d515a44c")
-		)
-		(pin "23"
-			(uuid "d775d836-fd41-4b14-8a8b-ff6c720a8913")
-		)
-		(pin "3"
-			(uuid "f2d42937-e111-470b-8d9e-6ab1ed97b6a0")
-		)
-		(pin "15"
-			(uuid "317403b3-ea8f-4be4-bc32-33fbacbf2a27")
-		)
-		(pin "32"
-			(uuid "c83773be-f363-4804-8986-ac086854bb15")
-		)
-		(pin "35"
-			(uuid "01d63ddb-0c1b-4422-b6ae-0cfb11302aa1")
+		(pin "2,3"
+			(uuid "4016edab-5306-412b-954f-8afde9523a77")
 		)
 		(pin "1"
-			(uuid "bac87866-b1f2-4fef-b4d9-acf07665426f")
-		)
-		(pin "16"
-			(uuid "c382d3dd-45a5-4978-8347-1981dddef158")
-		)
-		(pin "21"
-			(uuid "f19d8504-5982-4c01-9eb9-eb427dd0890f")
-		)
-		(pin "31"
-			(uuid "48e053f3-ed89-4e63-bcc2-198065338b3e")
-		)
-		(pin "36"
-			(uuid "949f444b-0a6a-424f-a9ab-7d42fc3cdd9b")
-		)
-		(pin "37"
-			(uuid "30ae9e6a-885c-4005-9263-01fdfef74be6")
-		)
-		(pin "38"
-			(uuid "4065979d-2323-457b-85fd-b4634d2702d4")
-		)
-		(pin "45"
-			(uuid "fa727ac8-8461-4bc4-a770-006521443b7a")
-		)
-		(pin "48"
-			(uuid "22b5012a-fb08-4b63-867f-2d1bb6725e89")
-		)
-		(pin "39"
-			(uuid "a987f2d5-4c05-4dd5-9206-2c30cbd2a4d8")
-		)
-		(pin "5"
-			(uuid "02f403d9-75bb-4b14-b3e1-5b26331bd637")
-		)
-		(pin "25"
-			(uuid "f7422824-6bbf-4184-9734-eddc0358bc20")
-		)
-		(pin "18"
-			(uuid "c68bcc19-1ef5-4ae7-acd6-eb67294875c2")
-		)
-		(pin "42"
-			(uuid "9f8d9bfa-3579-4945-be1e-0afee318155b")
-		)
-		(pin "17"
-			(uuid "6b5ec58d-d22a-41ef-8805-d25cfd4eae40")
-		)
-		(pin "29"
-			(uuid "440e5240-a7f3-4ec2-a4c1-f359f30a7140")
-		)
-		(pin "46"
-			(uuid "a8a3d7ca-f61a-42ca-ab0f-0a88dfe29ad1")
-		)
-		(pin "6"
-			(uuid "0e68ac62-3475-4cb0-b17a-ed6d92159548")
-		)
-		(pin "34"
-			(uuid "a7dcdcb1-bbe0-4589-92e0-1bc2f5b426ac")
-		)
-		(pin "44"
-			(uuid "40fe1fd6-6f1d-491a-a358-1e70666819c1")
-		)
-		(pin "7"
-			(uuid "bb82d6e1-32ce-4edf-b7e6-3d99c97e450b")
-		)
-		(pin "8"
-			(uuid "51ea8b59-6057-48ce-839a-cfc385edd29e")
-		)
-		(pin "9"
-			(uuid "631c7338-4c36-4093-9f8c-e9d5015caf33")
+			(uuid "262d0a09-dcf1-4339-82e2-ded6b8447593")
 		)
 		(pin "4"
-			(uuid "4254b756-ed4e-4935-8914-f833fc3f19d6")
-		)
-		(pin "33"
-			(uuid "7e991a92-587f-4d7b-af96-38f429fabdee")
-		)
-		(pin "41"
-			(uuid "70863977-78c3-414e-9b5f-87312e6a621d")
-		)
-		(pin "22"
-			(uuid "a414f7f8-5e8f-4deb-93fc-9cd1e9c1a19f")
-		)
-		(pin "30"
-			(uuid "2ee8fbe6-2dd1-4ac9-b73a-5446702e5209")
-		)
-		(pin "40"
-			(uuid "30f8efe5-b3a5-4034-95a6-ec0d2f3c734c")
-		)
-		(pin "26"
-			(uuid "a1523eb0-6045-47f8-807d-d3852c3541e5")
-		)
-		(pin "43"
-			(uuid "55596bab-62b1-44c0-9bce-6bf44f2bd7ff")
-		)
-		(pin "10"
-			(uuid "3953ad8b-21cc-42d3-8fc7-451f111c3a75")
-		)
-		(pin "2"
-			(uuid "a2eff052-57db-4d22-b4bd-c139b191660d")
-		)
-		(pin "11"
-			(uuid "23867b7a-7c2e-478a-9d3d-dbbb55a97110")
-		)
-		(pin "20"
-			(uuid "87350039-d132-4c55-8dde-5cedfaabdcbd")
-		)
-		(pin "24"
-			(uuid "7921c72f-11cc-48b2-a6e9-92a3748d01e6")
-		)
-		(pin "28"
-			(uuid "2e15ec71-cbc3-411b-a28e-1c272a6a03cf")
-		)
-		(pin ""
-			(uuid "81a4f545-9e1d-4baa-af0e-9e1b7e797405")
+			(uuid "2680a8eb-0295-40ed-80e4-f7d1e9f8916e")
 		)
 		(instances
 			(project ""
 				(path "/7b6d95de-464f-4091-a404-a6fd0874107f"
-					(reference "AC108")
+					(reference "M?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ccb_ADC:AC108")
+		(at 140.97 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55986c06-389c-4de2-bb41-841acf109a7c")
+		(property "Reference" "U1"
+			(at 140.97 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AC108"
+			(at 140.97 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ccb_package_DFN_QFN:AC108"
+			(at 140.97 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/6/0/d/c/a/AC108_Datasheet_V1.1.pdf"
+			(at 140.97 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 140.97 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 140.97 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 140.97 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "25"
+			(uuid "57256502-ceec-4b78-bfe3-b975ba521854")
+		)
+		(pin "29"
+			(uuid "811dcbcb-e4f7-402b-a8ee-37f4d871e5a3")
+		)
+		(pin "41"
+			(uuid "f3263ca7-c877-49a3-b455-03e900ee7a02")
+		)
+		(pin "2"
+			(uuid "83cc039b-0c0d-4082-b45c-accc7a2fab11")
+		)
+		(pin "27"
+			(uuid "f0fde54e-ac32-4977-bd5c-c70b9444a42b")
+		)
+		(pin "15"
+			(uuid "64770924-1977-4b5f-a791-898f56fc69c4")
+		)
+		(pin "35"
+			(uuid "684b22e8-4dcd-4efe-8778-7f683125c924")
+		)
+		(pin "10"
+			(uuid "7a376b11-fcf0-4293-a82d-6053186756b8")
+		)
+		(pin "28"
+			(uuid "6468da1f-a7d3-431e-8ab6-2a2ec100d670")
+		)
+		(pin "26"
+			(uuid "f72ff1a4-a7bb-4325-96a5-fb066bfefd3d")
+		)
+		(pin "16"
+			(uuid "d152f21c-3ccc-4435-81ae-fd9c07bf1bc8")
+		)
+		(pin "32"
+			(uuid "61f0a77c-181d-4ca4-b456-c7db832834aa")
+		)
+		(pin "34"
+			(uuid "a1838a45-5b0a-4883-90d7-3c62a724935d")
+		)
+		(pin "11"
+			(uuid "d686e68b-462c-4166-bdb1-730399f7f9dc")
+		)
+		(pin "30"
+			(uuid "b5c8e96c-3847-4962-91d7-c845f8fb19da")
+		)
+		(pin "37"
+			(uuid "745d233b-f91f-474d-9d96-f1b8669f6bc1")
+		)
+		(pin "31"
+			(uuid "a99ca231-da4d-48ed-8fc3-00c2440d4dc3")
+		)
+		(pin "8"
+			(uuid "fb4287b8-0e69-4d11-bfb2-211d6da42a25")
+		)
+		(pin "38"
+			(uuid "bd3f4ee8-ced5-412d-9e25-31a4412a7439")
+		)
+		(pin "39"
+			(uuid "2bfdcddf-7c08-44e7-9dc8-cfecc28e469e")
+		)
+		(pin "42"
+			(uuid "4dc095b2-4468-4085-81fd-f65b8a31f7ba")
+		)
+		(pin "43"
+			(uuid "1001eec2-5e58-4cd2-a3aa-fdbdfbc9f436")
+		)
+		(pin "44"
+			(uuid "9c7cf51f-f38d-434d-8854-773d6955d944")
+		)
+		(pin "40"
+			(uuid "31cc4c94-b90b-4817-8ac9-7775f0df3860")
+		)
+		(pin "36"
+			(uuid "ddcd5e7b-f7fb-4000-91d8-880f620c3173")
+		)
+		(pin "45"
+			(uuid "10d07c37-ed99-4c55-b7db-654024d52aff")
+		)
+		(pin "23"
+			(uuid "2ece30af-9062-426a-b0a7-003451d278ef")
+		)
+		(pin "33"
+			(uuid "f370d828-aaa8-4b6a-ba11-6e8580a4cd2f")
+		)
+		(pin "24"
+			(uuid "2fb3a598-7860-463c-9606-56cc88f7c058")
+		)
+		(pin "46"
+			(uuid "ce92abf3-3ad0-4b9d-af33-eebd17cafe46")
+		)
+		(pin "48"
+			(uuid "368cbacf-5428-4eb2-b759-53d4c2343c8c")
+		)
+		(pin "17"
+			(uuid "d00ae5f9-bdb0-4333-bba4-00560483b5b5")
+		)
+		(pin ""
+			(uuid "81fbd4b6-a230-4f64-9889-fd624e9e568e")
+		)
+		(pin "1"
+			(uuid "cdd4fc4c-d8ef-44f7-9e26-23b01a131db7")
+		)
+		(pin "4"
+			(uuid "18fb5cee-9579-4d65-9f63-e16648d17417")
+		)
+		(pin "3"
+			(uuid "79a2189f-c918-42be-ba35-4348082e8be9")
+		)
+		(pin "20"
+			(uuid "dc9a004d-144c-4083-be62-76dab4841575")
+		)
+		(pin "18"
+			(uuid "be9643ff-8215-478b-9032-d4506a75dcb1")
+		)
+		(pin "19"
+			(uuid "6368497f-21e6-45b8-98b5-4734ccd71d25")
+		)
+		(pin "21"
+			(uuid "1cae98a4-b25b-4b30-9d98-ff4a528db66a")
+		)
+		(pin "22"
+			(uuid "b5be4ef6-75f1-4611-a44c-b55e9e45cb03")
+		)
+		(pin "5"
+			(uuid "a7fa3d67-5074-4f46-88d9-4b3c4ec18a65")
+		)
+		(pin "7"
+			(uuid "e529d50b-4b37-4def-899f-bc242cfdfc87")
+		)
+		(pin "9"
+			(uuid "326781ec-60da-4c1f-99c4-3e886679523f")
+		)
+		(pin "6"
+			(uuid "3f3c89e2-45b6-4c53-a4f4-a92b11a58dc1")
+		)
+		(instances
+			(project ""
+				(path "/7b6d95de-464f-4091-a404-a6fd0874107f"
+					(reference "U1")
 					(unit 1)
 				)
 			)

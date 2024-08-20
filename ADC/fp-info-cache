@@ -1,4 +1,4 @@
-23745255015472680
+23979592686559633
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96641,3 +96641,955 @@ Varistor VF
 0
 2
 2
+ccb_ESD_EMI
+EMIF02SPK03F2
+EMIF02-SPK03F2-3
+Integrated Circuit
+0
+5
+5
+ccb_ESD_EMI
+EMIF06MSD02N16
+Micro QFN 3.5x1.2 16L
+Filter
+0
+17
+17
+ccb_LED
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+ccb_SD_card
+503398-1892
+
+
+0
+14
+14
+ccb_SD_card
+5035000991
+5035000991-1
+Connector
+0
+18
+18
+ccb_antenna
+2450AT18D0100E
+
+2450AT18D0100E 
+0
+4
+4
+ccb_battery
+BAT-HLD-012-SMT-TR
+SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf
+battery holder coin cell cr1216 cr1220 cr1225
+0
+3
+2
+ccb_battery
+CR1220-2
+
+
+0
+2
+2
+ccb_battery
+keystone_153
+
+
+0
+2
+2
+ccb_button_switch
+CSS-1210xB
+CSS-1210TB-3
+Switch
+0
+5
+5
+ccb_button_switch
+CSS-1310xB
+<b>CT10 Series Molded Switch</b><p>{return}Source: www.cotorelay.com .. Coto_Technology__CT10-1530-G1.pdf
+
+0
+6
+6
+ccb_button_switch
+KSC421_V30_ACT2.95_LFS
+
+
+0
+8
+8
+ccb_button_switch
+KT11P4SA1M34LFS
+KT11P4SA1M34LFS-1
+Switch
+0
+5
+3
+ccb_button_switch
+NKK_M2022SS1W03
+
+
+0
+6
+6
+ccb_button_switch
+PTS815_SJM_250_SMTR_LFS
+
+PTS815 SJM 250 SMTR LFS 
+0
+4
+4
+ccb_button_switch
+SW_Tactile_SPST_Angled_PTS645Vx31-2LFS
+tactile switch SPST right angle, PTS645VL31-2 LFS
+tactile switch SPST angled PTS645VL31-2 LFS C&K Button
+0
+4
+3
+ccb_capacitor
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ccb_capacitor
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ccb_capacitor
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ccb_capacitor
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ccb_capacitor
+C_1210_3225Metric
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ccb_connector_JST
+JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical
+JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+2
+2
+ccb_connector_JST
+JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical
+JST PH series connector, B3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+3
+3
+ccb_connector_JST
+JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical
+JST PH series connector, B5B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+5
+5
+ccb_connector_JST
+JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal
+JST PH series connector, S2B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+4
+3
+ccb_connector_JST
+JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal
+JST PH series connector, S3B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+5
+4
+ccb_connector_JST
+JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
+JST PH series connector, S4B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+6
+5
+ccb_connector_JST
+JST_PH_S5B-PH-SM4-TB_1x05-1MP_P2.00mm_Horizontal
+JST PH series connector, S5B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+7
+6
+ccb_connector_JST
+JST_SH_BM05B-SRSS-TB_1x05-1MP_P1.00mm_Vertical
+JST SH series connector, BM05B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH side entry
+0
+7
+6
+ccb_connector_USB
+USB3_A_Molex_48406-0001_Horizontal_Stacked
+USB 3.0, type A, right angle, stacked (https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/484/48406/484060001_sd.pdf)
+USB 3.0 type A right angle stacked dual
+0
+22
+19
+ccb_connector_USB
+USB_C_Receptacle_GCT_USB4085
+USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf
+USB Type-C Receptacle Through-hole Right angle
+0
+20
+17
+ccb_connector_USB
+micro_USB_Molex_47589-0001
+
+
+0
+13
+6
+ccb_connector_header
+CES-114-01-S-S
+Through hole straight socket strip, 1x14, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x14 2.54mm single row
+0
+14
+14
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0200 (alternative finishes: 43045-020x), 1 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+2
+2
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0400 (alternative finishes: 43045-040x), 2 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+4
+4
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0600 (alternative finishes: 43045-060x), 3 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+6
+6
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0800 (alternative finishes: 43045-080x), 4 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+8
+8
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43045-1000_2x05_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1000 (alternative finishes: 43045-100x), 5 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+10
+10
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43045-1200_2x06_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1200 (alternative finishes: 43045-120x), 6 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+12
+12
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0200 (compatible alternatives: 43650-0201, 43650-0202), 2 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+2
+2
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43650-0227_1x02_P3.00mm_Vertical
+
+436500227 
+0
+2
+2
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0300 (compatible alternatives: 43650-0301, 43650-0302), 3 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+3
+3
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43650-0400_1x04_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0400 (compatible alternatives: 43650-0401, 43650-0402), 4 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+4
+4
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43650-0500_1x05_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0500 (compatible alternatives: 43650-0501, 43650-0502), 5 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+5
+5
+ccb_connector_micro-fit
+Molex_Micro-Fit_3.0_43650-0600_1x06_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0600 (compatible alternatives: 43650-0601, 43650-0602), 6 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+6
+6
+ccb_connector_micro-lock
+Molex_Micro-lock_1.25_5055670281_1x02_P1.25mm_Horizontal
+
+5055670281 
+0
+4
+3
+ccb_connector_micro-lock
+Molex_Micro-lock_1.25_5055670481_1x04_P1.25mm_Horizontal
+
+5055670481 
+0
+6
+5
+ccb_connector_micro-lock
+Molex_Micro-lock_1.25_5055670581_1x05_P1.25mm_Horizontal
+
+5055670581 
+0
+7
+6
+ccb_connector_micro-lock
+Molex_Micro-lock_1.25_5055670681_1x06_P1.25mm_Horizontal
+
+5055670681 
+0
+8
+7
+ccb_connector_micro-lock
+Molex_Micro-lock_1.25_5055670781_1x07_P1.25mm_Horizontal
+
+5055670781 
+0
+9
+8
+ccb_connector_micro-lock
+Molex_Micro-lock_2.0_5055780271_1x02_P2.00mm_Horizontal
+
+5055780271 
+0
+4
+3
+ccb_connector_micro-lock
+Molex_Micro-lock_2.0_5055780471_1x04_P2.00mm_Horizontal
+
+5055780471 
+0
+6
+5
+ccb_connector_micro-lock
+Molex_Micro-lock_2.0_5055780571_1x05_P2.00mm_Horizontal
+
+5055780571 
+0
+7
+6
+ccb_connector_micro-lock
+Molex_Micro-lock_2.0_5055780671_1x06_P2.00mm_Horizontal
+
+5055780671 
+0
+8
+7
+ccb_connector_micro-lock
+Molex_Micro-lock_2.0_5055780771_1x07_P2.00mm_Horizontal
+
+5055780771 
+0
+9
+8
+ccb_connector_mini-fit
+Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-02A2, example for new mpn: 39-30-0020, 1 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr top entryplastic_peg
+0
+2
+2
+ccb_connector_mini-fit
+Molex_Mini-Fit_Jr_5569-04A2_2x02_P4.20mm_Horizontal
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-04A2, example for new mpn: 39-30-0040, 2 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr top entryplastic_peg
+0
+4
+4
+ccb_connector_mini-fit
+Molex_Mini-Fit_Jr_5569-10A2_2x05_P4.20mm_Horizontal
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-10A2, example for new mpn: 39-30-0100, 5 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr top entryplastic_peg
+0
+10
+10
+ccb_connector_pin_header
+PinSocket_1x14_P2.54mm_Vertical
+Through hole straight socket strip, 1x14, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x14 2.54mm single row
+0
+14
+14
+ccb_connector_programming
+PinHeader_2x05_P1.27mm_Vertical
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+ccb_connector_programming
+Swift_SWD_pads
+
+
+0
+6
+6
+ccb_connector_programming
+TC2030-CTX-NL
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+ccb_connector_programming
+TTL-234X-3V3_header
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+ccb_connector_switchcraft
+EN3P3FPX
+
+
+0
+3
+3
+ccb_crystal
+Crystal_SMD_3215-2Pin_3.2x1.5mm
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+ccb_crystal
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+ccb_crystal
+Crystal_SMD_MicroCrystal_MS3V-T1R
+SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf
+['MS3V-T1R']
+0
+3
+3
+ccb_crystal
+Crystal_SMD_Murata_CSTNR_4.5mmx2mm
+
+
+0
+3
+3
+ccb_crystal
+SIT1534AIH4DCC00032G
+2.0 mm x 1.2 mm SMD
+Crystal or Oscillator
+0
+4
+4
+ccb_diode
+D_SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+ccb_diode
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+ccb_diode
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+ccb_diode
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+ccb_diode
+Diodes_PowerDI3333-8
+Diodes Incorporated PowerDI3333-8, Plastic Dual Flat No Lead Package, 3.3x3.3x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf
+PowerDI 0.65
+0
+13
+5
+ccb_inductor
+L_0805_2012Metric
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+ccb_inductor
+L_1210_3225Metric
+Inductor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+ccb_inductor
+L_Coilcraft_XxL4030
+L_Coilcraft_XxL4030 https://www.coilcraft.com/pdfs/xfl4030.pdf
+L Coilcraft XxL4030
+0
+2
+2
+ccb_microphone
+CMM-3526AT-38165-TR
+ConnectorMicromatch-6
+
+0
+6
+6
+ccb_microphone
+MSM321A3729H8HP-C_FP
+
+
+0
+4
+4
+ccb_mounting_hole
+MountingHole_2.7mm_M2.5_DIN965
+Mounting Hole 2.7mm, no annular, M2.5, DIN965
+mounting hole 2.7mm no annular m2.5 din965
+0
+0
+0
+ccb_mounting_hole
+MountingHole_2.7mm_M2.5_DIN965_Pad
+Mounting Hole 2.7mm, M2.5, DIN965
+mounting hole 2.7mm m2.5 din965
+0
+1
+1
+ccb_mounting_hole
+MountingHole_3.2mm_M3_DIN965
+Mounting Hole 3.2mm, no annular, M3, DIN965
+mounting hole 3.2mm no annular m3 din965
+0
+0
+0
+ccb_mounting_hole
+MountingHole_3.2mm_M3_DIN965_Pad
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+1
+1
+ccb_mounting_hole
+MountingHole_3.8mm
+Mounting Hole 3.8mm, no annular
+mounting hole 3.8mm no annular
+0
+0
+0
+ccb_mounting_hole
+SwiftOne_battery_board_pad
+
+
+0
+1
+1
+ccb_mounting_hole
+SwiftOne_battery_hole_GND
+
+
+0
+8
+1
+ccb_mounting_hole
+SwiftOne_battery_hole_VIN
+
+
+0
+8
+1
+ccb_package_BGA
+Analog_BGA-49_6.25x6.25mm_Layout7x7_P0.8mm_Ball0.5mm_Pad0.4mm
+Analog BGA-49, 6.25x6.25mm, 49 Ball, 7x7 Layout, 0.8mm Pitch, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081600_0_bga49.pdf https://www.analog.com/media/en/technical-documentation/product-information/assembly-considerations-for-umodule-bga-lga-package.pdf
+BGA 49 0.8
+0
+49
+49
+ccb_package_BGA
+UFBGA-144_10x10mm_Layout12x12_P0.8mm
+UFBGA-144, 12x12 raster, 10x10mm package, pitch 0.8mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f446ze.pdf
+BGA 144 0.8
+0
+144
+144
+ccb_package_BGA
+XFBGA-121_8x8mm_Layout11x11_P0.65mm
+XFBGA-121, https://www.nxp.com/docs/en/package-information/SOT1533-1.pdf
+XFBGA-121
+0
+121
+121
+ccb_package_DFN_QFN
+DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm
+DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+13
+9
+ccb_package_DFN_QFN
+QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm
+QFN, 32 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_32_05-08-1693.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+42
+33
+ccb_package_DFN_QFN
+TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm
+TDFN, 14 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF (T1433-2C)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+19
+15
+ccb_package_DFN_QFN
+TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm
+TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0136.PDF (T1633-5), https://pdfserv.maximintegrated.com/land_patterns/90-0032.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+21
+17
+ccb_package_DFN_QFN
+TQFN-24-1EP_3.5x3.5mm_P0.4mm_EP2.5x2.5mm
+
+MAX4996ETG+T 
+0
+25
+25
+ccb_package_DFN_QFN
+VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm
+VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+34
+25
+ccb_package_DFN_QFN
+VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
+VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+53
+49
+ccb_package_DFN_QFN
+VQFN-FCRLF14_RXB_TEX
+
+LMQ66410R5RXBR 
+0
+19
+15
+ccb_package_DFN_QFN
+VQFN-HR_9_2mmx2mm
+LMR43620MSC3RPERQ1-5
+Integrated Circuit
+0
+13
+9
+ccb_package_QFP
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+ccb_package_QFP
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+ccb_package_QFP
+LQFP-80_12x12mm_P0.5mm
+LQFP, 80 Pin (https://www.nxp.com/docs/en/package-information/SOT315-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+80
+80
+ccb_package_SO
+SOIC-4_4.55x2.6mm_P1.27mm
+SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+4
+4
+ccb_package_SO
+SOIC-16W_7.5x10.3mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-013AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/rw_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+ccb_package_SO
+TSSOP-24_4.4x7.8mm_P0.65mm
+TSSOP, 24 Pin (JEDEC MO-153 Var AD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+24
+24
+ccb_package_SO
+US8_2.4mmx2.1mm_P0.5mm
+
+
+0
+8
+8
+ccb_package_SO
+VSSOP-8_2.3x2mm_P0.5mm
+VSSOP-8 2.3x2mm Pitch 0.5mm
+VSSOP-8 2.3x2mm Pitch 0.5mm
+0
+8
+8
+ccb_package_SO
+VSSOP-10_3x3mm_P0.5mm
+VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO
+0
+10
+10
+ccb_package_SON
+FSSD06UMX
+FSSD06UMX-2
+Switch
+0
+24
+24
+ccb_package_SON
+PG-TDSON-14_INF
+
+BTT60302ERAXUMA1 
+0
+15
+15
+ccb_package_SON
+SON127P800X600X80-9N-D
+WSON-8 8x6mm
+Integrated Circuit
+0
+9
+9
+ccb_package_SON
+Texas_DPY0002A_0.6x1mm_P0.65mm
+X1SON 2 pin 0.6x1mm 0.375mm height package, https://www.ti.com/lit/ml/mpss034c/mpss034c.pdf, https://www.ti.com/lit/ds/symlink/tpd6e05u06.pdf
+X1SON
+0
+2
+2
+ccb_package_SON
+Texas_DQK
+Texas WSON-6 DQK, http://www.ti.com/lit/ds/symlink/csd16301q2.pdf
+Texas WSON6 2x2mm
+0
+10
+8
+ccb_package_SON
+Texas_S-PWSON-N10_ThermalVias
+3x3mm Body, 0.5mm Pitch, S-PWSON-N10, DSC, http://www.ti.com/lit/ds/symlink/tps63060.pdf
+0.5 S-PWSON-N10 DSC
+0
+47
+11
+ccb_package_SON
+WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm
+WSON, 8 Pin (https://datasheet.lcsc.com/lcsc/2204011730_GigaDevice-Semicon-Beijing-GD5F1GQ4UFYIGR_C2986324.pdf (page 44)), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+13
+9
+ccb_package_TO_SOT_SMD
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+ccb_package_TO_SOT_SMD
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+ccb_package_TO_SOT_SMD
+SOT-23-6
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+ccb_package_TO_SOT_SMD
+SOT-23W
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W
+0
+3
+3
+ccb_package_TO_SOT_SMD
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+ccb_package_TO_SOT_SMD
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+ccb_package_TO_SOT_SMD
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+ccb_package_TO_SOT_SMD
+SOT-583-8
+https://www.ti.com/lit/ds/symlink/tps62933.pdf
+SOT-583-8
+0
+8
+8
+ccb_package_TO_SOT_SMD
+TSOT-23-8
+TSOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOT TO_SOT_SMD
+0
+8
+8
+ccb_pin_header
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+ccb_pin_header
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+ccb_relay
+Relay_DPDT_Kemet_EE2_NU_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
+0
+10
+10
+ccb_resistor
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+ccb_resistor
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+ccb_resistor
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+ccb_resistor
+R_1206_3216Metric
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+ccb_specialty_sensor
+BMA400
+
+BMA400 
+0
+12
+12
+ccb_specialty_sensor
+BME688
+Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Bosch LGA NoLead
+0
+8
+8
+ccb_specialty_sensor
+BMP280
+2.5 mm x 2.5 mm x 0.93 mm metal lid LGA
+
+0
+8
+8
+ccb_specialty_sensor
+LGA-12_2x2mm_P0.5mm
+LGA12
+lga land grid array
+0
+12
+12
+ccb_test_point
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
