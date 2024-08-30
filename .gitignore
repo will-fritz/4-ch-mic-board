@@ -1,0 +1,16 @@
+# ignore all logs
+*.log
+
+#ignore backup files
+ADC/ADC-backups
+*.kicad_sch-bak
+
+#ignore all zips
+*.zips
+*.zip
+
+#ignore wav
+*.wav
+
+#ignore
+*.bak

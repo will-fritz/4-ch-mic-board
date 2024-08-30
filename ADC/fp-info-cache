@@ -1,4 +1,4 @@
-23979592686559633
+23981317880694948
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97271,6 +97271,13 @@ XFBGA-121
 0
 121
 121
+ccb_package_DFN_QFN
+AC108
+
+
+0
+65
+49
 ccb_package_DFN_QFN
 DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm
 DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
