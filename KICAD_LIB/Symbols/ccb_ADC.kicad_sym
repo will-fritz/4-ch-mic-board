@@ -289,7 +289,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 16.51 -2.54 180)
 				(length 2.54)
 				(name "MIC1_BIAS"
@@ -343,7 +343,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 16.51 -17.78 180)
 				(length 2.54)
 				(name "MIC2_BIAS"
@@ -505,7 +505,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 16.51 13.97 180)
 				(length 2.54)
 				(name "VRFN"
@@ -541,7 +541,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 16.51 -33.02 180)
 				(length 2.54)
 				(name "MIC3_BIAS"
@@ -595,7 +595,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 16.51 -48.26 180)
 				(length 2.54)
 				(name "MIC4_BIAS"
@@ -667,7 +667,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 16.51 25.4 180)
 				(length 2.54)
 				(name "AVCC-ANA2"
@@ -829,7 +829,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin power_in line
 				(at 16.51 5.08 180)
 				(length 2.54)
 				(name "VDD-CORE"
